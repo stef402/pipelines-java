@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/indall-u/iaah/_apis/build/status/iaah-Maven-CI?branchName=master)](https://dev.azure.com/indall-u/iaah/_build/latest?definitionId=48&branchName=master)
 
 # Contributing
 
